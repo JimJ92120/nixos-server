@@ -16,16 +16,6 @@ All files may be verified and their configuration changed accordingly (users, `s
 
 A basic **NixOS** configuration to serve static content and web servers using **Nginx**.
 
----
-
----
-
-# introduction
-
-The project aims to introduce a less "opened" setup, from initial and default packages configurations following the **deny-by-default** principle.
-
-Some basic `programs` have been added as tools and utils (see `./configuration.nix`).
-
 ### ssh
 
 See `./modules/ssh.nix`.
